@@ -1,0 +1,34 @@
+{
+    "header": {
+        "title": "Pendekkan Tautan. Buat QR Anda.",
+        "subtitle": "Cara tercepat mengubah URL panjang menjadi tautan pendek yang rapi dan Kode QR yang siap dipindai."
+    },
+    "tab": {
+        "urlShortener": {
+            "title": "Pemendek URL",
+            "inputTitle": {
+                "longUrl": "URL Panjang",
+                "shortUrl": "URL Pendek"
+            },
+            "button" : {
+                "generate" : "Buat URL Pendek",
+                "copy" : "Salin ke Papan Klip"
+            },
+            "subtitle": "URL pendek yang tidak memiliki setidaknya satu klik per bulan akan dinonaktifkan"
+        },
+        "qrCodeGenerator": {
+            "title" : "Pembuat Kode QR",
+            "inputTitle" : "URL",
+            "button": {
+                "generate" : "Buat QR",
+                "download" : "Unduh Kode QR"
+            }
+        }
+    },
+    "card" : {
+        "thumbsUp" : "Pendekkan dan buat Kode QR secara instan.",
+        "shield" : "Amankan tautan dan Kode QR Anda dari ancaman.",
+        "link" : "Buat tautan dan grafis QR yang bersih dan profesional.",
+        "device" : "Akses penuh di semua perangkat Anda."
+    }
+}

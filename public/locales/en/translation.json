@@ -1,0 +1,34 @@
+{
+    "header": {
+        "title": "Shorten Your Link. Generate Your QR.",
+        "subtitle": "The fastest way to transform long URLs into clean, short links and scannable QR Codes."
+    },
+    "tab": {
+        "urlShortener": {
+            "title": "URL Shortener",
+            "inputTitle": {
+                "longUrl": "Long URL",
+                "shortUrl": "Short URL"
+            },
+            "button" : {
+                "generate" : "Generate Short URL",
+                "copy" : "Copy to Clipboard"
+            },
+            "subtitle": "Short URL that do not have at least one click per month are disabled"
+        },
+        "qrCodeGenerator": {
+            "title" : "QR Code Generator",
+            "inputTitle" : "URL",
+            "button": {
+                "generate" : "Generate QR",
+                "download" : "Download QR Code"
+            }
+        }
+    }, 
+    "card" : {
+        "thumbsUp" : "Shorten and generate QR codes instantly.",
+        "shield" : "Secure your links and QR codes from threats.",
+        "link" : "Create clean, professional links and QR graphics.",
+        "device" : "Full accessibility across all your devices." 
+    }
+}
